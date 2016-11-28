@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryChiffreLettre", "ClassLibraryChiffreLettre\ClassLibraryChiffreLettre.csproj", "{21A33BAE-9D0D-45DA-AAAE-5A3FA589E033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplicationChiffreLettre", "WpfApplicationChiffreLettre\WpfApplicationChiffreLettre.csproj", "{B49661EF-8CC7-47D4-901F-485C1B36545C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A33BAE-9D0D-45DA-AAAE-5A3FA589E033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A33BAE-9D0D-45DA-AAAE-5A3FA589E033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A33BAE-9D0D-45DA-AAAE-5A3FA589E033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A33BAE-9D0D-45DA-AAAE-5A3FA589E033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49661EF-8CC7-47D4-901F-485C1B36545C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49661EF-8CC7-47D4-901F-485C1B36545C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49661EF-8CC7-47D4-901F-485C1B36545C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49661EF-8CC7-47D4-901F-485C1B36545C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
