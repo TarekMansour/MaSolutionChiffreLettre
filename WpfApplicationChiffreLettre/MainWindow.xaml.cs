@@ -60,7 +60,7 @@ namespace WpfApplicationChiffreLettre
             tabZoneA[8] = btA9;
         }
 
-        //bouton pour choisir aléatoirement une lettre voyelle
+        //bouton pour choisir aléatoirement une lettre voyelle 
         private void btVolyelle_Click(object sender, RoutedEventArgs e)
         {
             remplir(tabZoneA);
